@@ -20,18 +20,21 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 
 ### 🧾 Program
 
-```python
-#Reg.NO
-#Name
-#Write your Code here
+```
+n=int(input())
 
+for i in range(n,0,-1):
+    if i%2!=0:
+        print(i)
 ```
 ### OUTPUT
 ```
+<img width="814" height="442" alt="image" src="https://github.com/user-attachments/assets/b32ea9c0-0827-4637-9e54-0d8bd16f3b5f" />
 
 ```
 ### RESULT
 ```
+This program for  1 to n Odd numbers in reverse order is successfully executed.
 
 ```
 
