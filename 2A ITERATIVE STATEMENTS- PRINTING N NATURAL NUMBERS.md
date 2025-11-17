@@ -28,11 +28,11 @@ for i in range(n,0,-1):
         print(i)
 ```
 ### OUTPUT
-```
+
 <img width="814" height="442" alt="module 2" src="https://github.com/user-attachments/assets/b80f8bc1-296d-452e-b65e-1938f95dce5a" />
 
 
-```
+
 ### RESULT
 ```
 This program for  1 to n Odd numbers in reverse order is successfully executed.
