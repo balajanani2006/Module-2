@@ -29,7 +29,8 @@ for i in range(n,0,-1):
 ```
 ### OUTPUT
 ```
-![Module 2B](https://github.com/user-attachments/assets/3852e53a-0b6d-419b-9202-fd62d894b4d6)
+<img width="814" height="442" alt="module 2" src="https://github.com/user-attachments/assets/b80f8bc1-296d-452e-b65e-1938f95dce5a" />
+
 
 ```
 ### RESULT
