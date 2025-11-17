@@ -23,16 +23,23 @@ To write a Python program to check if a number is a Perfect number using the con
 ### PROGRAM
 ```
 
-x=int(input())
-y=int(input())
-if(x<y):
-    print(x,"is smaller than",y)
+
+
+n = int(input())
+sum1 = 0
+for i in range(1, n):
+    if(n % i == 0):
+        sum1 = sum1 + i
+if (sum1 == n):
+    print("The number is a Perfect number!")
 else:
-    print(y,"is smaller than",x)
+    print("The number is not a Perfect number!")
 
 ```
 ### OUTPUT
-<img width="959" height="273" alt="image" src="https://github.com/user-attachments/assets/ff55e767-49c7-40b3-90d6-ef4cb32a00f0" />
+<img width="1148" height="261" alt="image" src="https://github.com/user-attachments/assets/004fc4e0-f754-4c09-98fd-ef230b5990c6" />
+
 
 ### RESULT
-Thus a a Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function was executed successfully.
+This program to check the perfect number is successfully executed.
+
