@@ -29,7 +29,7 @@ for i in range(n,0,-1):
 ```
 ### OUTPUT
 ```
-<img width="814" height="442" alt="image" src="https://github.com/user-attachments/assets/b32ea9c0-0827-4637-9e54-0d8bd16f3b5f" />
+![Module 2B](https://github.com/user-attachments/assets/3852e53a-0b6d-419b-9202-fd62d894b4d6)
 
 ```
 ### RESULT
