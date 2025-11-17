@@ -22,11 +22,17 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-#Reg.No:
-#Name:
-#Add your Code Here
+
+x=int(input())
+y=int(input())
+if(x<y):
+    print(x,"is smaller than",y)
+else:
+    print(y,"is smaller than",x)
 
 ```
 ### OUTPUT
+<img width="959" height="273" alt="image" src="https://github.com/user-attachments/assets/ff55e767-49c7-40b3-90d6-ef4cb32a00f0" />
 
 ### RESULT
+Thus a a Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function was executed successfully.
